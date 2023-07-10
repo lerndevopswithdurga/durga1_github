@@ -1,7 +1,6 @@
 This is a first java file
 File name is 1.java
 this is for testing conflicts
-this is under feature branch
-this is under defect branch
-
-this is for rebase for resolve conflicts
+this is to resolve conflicts using merge method
+this is to resolve conflicts by rebase method
+ 
